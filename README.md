@@ -6,8 +6,7 @@
 <p align="center">
   <a href="https://github.com/istiakrahman15/resume-os/actions"><img src="https://img.shields.io/github/actions/workflow/status/istiakrahman15/resume-os/ci.yml?branch=main&style=flat-square" alt="CI Status" /></a>
   <a href="https://github.com/istiakrahman15/resume-os/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License" /></a>
-  <a href="https://resumeos.app"><img src="https://img.shields.io/badge/Live-resumeos.app-brand?style=flat-square" alt="Live" /></a>
-</p>
+  </p>
 
 ---
 
